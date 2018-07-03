@@ -1,169 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5439e8c4-a1fc-4a5b-bc93-b1a1bdd3a3cd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/callMainMethodMainThread/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/callMainMethodMainThread/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/callMainMethodMainThread/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countPriority/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countPriority/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/countPriority/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countPriority/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countPriority/ThreadA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/countPriority/ThreadA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countPriority/ThreadB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/countPriority/ThreadB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/countPriority/ThreadB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/currentThreadExt/CountOperate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/currentThreadExt/CountOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/currentThreadExt/CountOperate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/currentThreadExt/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/currentThreadExt/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/currentThreadExt/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daemonThread/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daemonThread/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/daemonThread/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daemonThread/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daemonThread/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/daemonThread/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isaliveOtherTest/CountOperate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isaliveOtherTest/CountOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/isaliveOtherTest/CountOperate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isaliveOtherTest/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isaliveOtherTest/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/isaliveOtherTest/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/randomThread/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/randomThread/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/randomThread/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/randomThread/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/randomThread/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/randomThread/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runMethonUseStopMethod/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runMethonUseStopMethod/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/runMethonUseStopMethod/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runMethonUseStopMethod/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runMethonUseStopMethod/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/runMethonUseStopMethod/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runThread/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/runThread/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/runThread/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sameNum/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sameNum/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/sameNum/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sameNum/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sameNum/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/sameNum/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopThrowLock/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopThrowLock/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/stopThrowLock/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopThrowLock/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopThrowLock/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/stopThrowLock/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopThrowLock/SynchronizedObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stopThrowLock/SynchronizedObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/stopThrowLock/SynchronizedObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_LockStop/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_LockStop/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/suspend_resume_LockStop/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_LockStop/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_LockStop/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/suspend_resume_LockStop/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_deal_lock/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_deal_lock/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/suspend_resume_deal_lock/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_deal_lock/SynchronizedObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_deal_lock/SynchronizedObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/suspend_resume_deal_lock/SynchronizedObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_nosameValue/MyObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_nosameValue/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/suspend_resume_nosameValue/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_nosameValue/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suspend_resume_nosameValue/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/suspend_resume_nosameValue/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t1/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t1/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t11/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t11/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t11/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t11/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t11/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t11/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t12/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t12/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/Run2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/Run2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t12/Run2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/Run3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t12/Run3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t12/Run3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t13/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t13/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13_1/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13_1/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t13_1/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13_1/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13_1/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t13_1/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13forprint/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13forprint/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t13forprint/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13forprint/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t13forprint/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t13forprint/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t14/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t14/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t14/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t14/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t14/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t14/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t15/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t15/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t15/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t15/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t15/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t15/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t17/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t17/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t17/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t17/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t17/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t17/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t18/MyThread1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t18/MyThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t18/MyThread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t18/MyThread2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t18/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t18/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t18/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t18/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t18/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/MyThread1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/MyThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t19/MyThread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/MyThread2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t19/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t19/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/Run2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t19/Run2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t19/Run2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2/MyRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t2/MyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t2/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t20/MyThread1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t20/MyThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t20/MyThread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t20/MyThread2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t20/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t20/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t20/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t20/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t20/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t3/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t3/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t4/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t4/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/ALogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/ALogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t4_threadsafe/ALogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/BLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/BLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t4_threadsafe/BLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t4_threadsafe/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t4_threadsafe/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t4_threadsafe/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t6/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6/Run1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6/Run1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t6/Run1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6/Run2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6/Run2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t6/Run2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t7/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t7/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t7/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t7/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t7/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t7/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/MyThread1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/MyThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t8/MyThread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/MyThread2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t8/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/Run1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/Run1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t8/Run1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/Run2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8/Run2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t8/Run2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useReturnInterrupt/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useReturnInterrupt/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/useReturnInterrupt/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useReturnInterrupt/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useReturnInterrupt/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/useReturnInterrupt/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useStopMethodThreadTest/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useStopMethodThreadTest/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/useStopMethodThreadTest/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useStopMethodThreadTest/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/useStopMethodThreadTest/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/useStopMethodThreadTest/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z/MyThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/z/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/z/Test.java" afterDir="false" />
+    <list default="true" id="5439e8c4-a1fc-4a5b-bc93-b1a1bdd3a3cd" name="Default" comment="更改文件结构；">
+      <change afterPath="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString2/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synBlockString2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_1/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synLockIn_2/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synNotExtends/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synNotExtends/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synNotExtends/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synNotExtends/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synNotExtends/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject2/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedMethodLockObject2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t1/HasSelfPrivateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t1/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t1/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t2/HasSelfPrivateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t3/PublicVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t3/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t5/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t5/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t5/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t5/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t5/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t6/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t6/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t6/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t6/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t6/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t7/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t7/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t7/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t7/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t8/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t8/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t8/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/t8/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/twoObjectTwoLock/HasSelfPrivateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/twoObjectTwoLock/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/twoObjectTwoLock/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/twoObjectTwoLock/ThreadB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/callMainMethodMainThread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/countPriority/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/countPriority/ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/countPriority/ThreadB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/currentThreadExt/CountOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/currentThreadExt/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/daemonThread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/daemonThread/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/isaliveOtherTest/CountOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/isaliveOtherTest/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/randomThread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/randomThread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/runMethonUseStopMethod/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/runMethonUseStopMethod/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/runThread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/sameNum/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/sameNum/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/stopThrowLock/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/stopThrowLock/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/stopThrowLock/SynchronizedObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/suspend_resume_LockStop/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/suspend_resume_LockStop/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/suspend_resume_deal_lock/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/suspend_resume_deal_lock/SynchronizedObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/suspend_resume_nosameValue/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/suspend_resume_nosameValue/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t1/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t1/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t11/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t11/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t12/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t12/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t12/Run2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t12/Run3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t13/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t13/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t13_1/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t13_1/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t13forprint/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t13forprint/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t14/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t14/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t15/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t15/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t17/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t17/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t18/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t18/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t18/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t19/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t19/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t19/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t19/Run2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t2/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t2/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t20/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t20/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t20/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t3/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t3/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t4/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t4/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t4_threadsafe/ALogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t4_threadsafe/BLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t4_threadsafe/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t4_threadsafe/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t6/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t6/Run1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t6/Run2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t7/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t7/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t8/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t8/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t8/Run1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/t8/Run2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/useReturnInterrupt/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/useReturnInterrupt/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/useStopMethodThreadTest/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/useStopMethodThreadTest/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/z/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/z/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -174,7 +172,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/MyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="132">
+                <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -204,57 +258,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/runThread/Test.java" />
-        <option value="$PROJECT_DIR$/src/t11/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t11/Run.java" />
-        <option value="$PROJECT_DIR$/src/t12/Run.java" />
-        <option value="$PROJECT_DIR$/src/t12/Run2.java" />
-        <option value="$PROJECT_DIR$/src/t12/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t12/Run3.java" />
-        <option value="$PROJECT_DIR$/src/t13/Run.java" />
-        <option value="$PROJECT_DIR$/src/t13/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t13forprint/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t13forprint/Run.java" />
-        <option value="$PROJECT_DIR$/src/t13_1/Run.java" />
-        <option value="$PROJECT_DIR$/src/t13_1/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t14/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t14/Run.java" />
-        <option value="$PROJECT_DIR$/src/t15/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t15/Run.java" />
-        <option value="$PROJECT_DIR$/src/useStopMethodThreadTest/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/useStopMethodThreadTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/runMethonUseStopMethod/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/runMethonUseStopMethod/Run.java" />
-        <option value="$PROJECT_DIR$/src/stopThrowLock/SynchronizedObject.java" />
-        <option value="$PROJECT_DIR$/src/stopThrowLock/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/stopThrowLock/Run.java" />
-        <option value="$PROJECT_DIR$/src/useReturnInterrupt/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/useReturnInterrupt/Run.java" />
-        <option value="$PROJECT_DIR$/src/suspend_resume_deal_lock/SynchronizedObject.java" />
-        <option value="$PROJECT_DIR$/src/suspend_resume_deal_lock/Run.java" />
-        <option value="$PROJECT_DIR$/src/suspend_resume_LockStop/Run.java" />
-        <option value="$PROJECT_DIR$/src/suspend_resume_LockStop/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/suspend_resume_nosameValue/MyObject.java" />
-        <option value="$PROJECT_DIR$/src/suspend_resume_nosameValue/Run.java" />
-        <option value="$PROJECT_DIR$/src/t17/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/t17/Run.java" />
-        <option value="$PROJECT_DIR$/src/t18/MyThread2.java" />
-        <option value="$PROJECT_DIR$/src/t18/MyThread1.java" />
-        <option value="$PROJECT_DIR$/src/t18/Run.java" />
-        <option value="$PROJECT_DIR$/src/t19/MyThread1.java" />
-        <option value="$PROJECT_DIR$/src/t19/MyThread2.java" />
-        <option value="$PROJECT_DIR$/src/t19/R冫.java" />
-        <option value="$PROJECT_DIR$/src/t19/Run.java" />
-        <option value="$PROJECT_DIR$/src/t19/Run2.java" />
-        <option value="$PROJECT_DIR$/src/t20/MyThread1.java" />
-        <option value="$PROJECT_DIR$/src/t20/MyThread2.java" />
-        <option value="$PROJECT_DIR$/src/t20/Run.java" />
-        <option value="$PROJECT_DIR$/src/countPriority/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/countPriority/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/countPriority/Run.java" />
-        <option value="$PROJECT_DIR$/src/daemonThread/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/daemonThread/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter1/countPriority/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synLockIn_2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synLockIn_2/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synLockIn_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synLockIn_2/Sub.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/Service.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synNotExtends/Main.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synNotExtends/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synNotExtends/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synNotExtends/Sub.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synNotExtends/Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t5/Task.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t5/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t5/MyThread1.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t5/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t5/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ObjectService.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t6/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t6/Task.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t6/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t7/Task.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t7/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t7/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t7/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ObjectService.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t8/MyThread1.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t8/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t8/Task.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/t8/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString/Service.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString2/Service.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString2/MyThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString2/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString2/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/synBlockString2/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/MyList.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/syn_Out_asyn/Run.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -279,7 +333,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,6 +344,12 @@
               <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,6 +372,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,11 +387,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="t20" />
-      <recent name="t19" />
-      <recent name="t12" />
-      <recent name="isaliveOtherTest" />
-      <recent name="t6" />
+      <recent name="chapter2.syn_Out_asyn" />
+      <recent name="chapter2.synBlockString2" />
+      <recent name="chapter2.synBlockString" />
+      <recent name="chapter2.t8" />
+      <recent name="chapter2.doubleSynBlockOneTwo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter2\t6" />
+      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter2\synchronizedMethodLockObject2" />
+      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter2\twoObjectTwoLock" />
+      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter2\t2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,25 +412,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (1)">
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.t20.Run" />
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.doubleSynBlockOneTwo.Run" />
       <module name="MultiThread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.t20.*" />
+          <option name="PATTERN" value="chapter2.doubleSynBlockOneTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.t19.Run2" />
+    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.synBlockString.Run" />
       <module name="MultiThread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.t19.*" />
+          <option name="PATTERN" value="chapter2.synBlockString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.synBlockString2.Run" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.synBlockString2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.t8.Run" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.t8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.syn_Out_asyn.Run" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.syn_Out_asyn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,17 +544,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run (2)" />
-      <item itemvalue="Application.Run2" />
-      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Run (5)" />
+      <item itemvalue="Application.Run (3)" />
       <item itemvalue="Application.Run (4)" />
-      <item itemvalue="Application.Run (1)" />
+      <item itemvalue="Application.Run" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (1)" />
-        <item itemvalue="Application.Run (4)" />
         <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Run2" />
+        <item itemvalue="Application.Run (4)" />
+        <item itemvalue="Application.Run (3)" />
+        <item itemvalue="Application.Run (5)" />
         <item itemvalue="Application.Run (2)" />
       </list>
     </recent_temporary>
@@ -472,47 +571,96 @@
       <updated>1530496776482</updated>
       <workItem from="1530496781057" duration="3620000" />
       <workItem from="1530509780044" duration="6192000" />
-      <workItem from="1530516157469" duration="3612000" />
+      <workItem from="1530516157469" duration="4474000" />
+      <workItem from="1530577446176" duration="10820000" />
     </task>
+    <task id="LOCAL-00001" summary="更改文件结构；">
+      <created>1530534502544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530534502545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更改文件结构；">
+      <created>1530534541638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530534541638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13424000" />
+    <option name="totallyTimeSpent" value="25106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32824427" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3380589" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23638344" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6335878" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32824427" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -520,402 +668,440 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改文件结构；" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改文件结构；" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t11/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synLockIn_2/Sub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t12/Run3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t12/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t13/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t13forprint/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t13forprint/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t13_1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t13_1/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t14/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t14/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="269">
           <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t15/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t15/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/useStopMethodThreadTest/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/useStopMethodThreadTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/runMethonUseStopMethod.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter1/runMethonUseStopMethod/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/runMethonUseStopMethod/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/stopThrowLock/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/stopThrowLock/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/stopThrowLock/SynchronizedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/useReturnInterrupt/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/useReturnInterrupt/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/EXE/JDK1.8/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/suspend_resume_deal_lock/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/suspend_resume_deal_lock/SynchronizedObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/suspend_resume_LockStop/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/suspend_resume_LockStop/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/suspend_resume_nosameValue/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/suspend_resume_nosameValue/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t17/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t17/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/EXE/JDK1.8/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1104" column="21" selection-start-line="1104" selection-start-column="21" selection-end-line="1104" selection-end-column="21" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-            <element signature="e#42956#42957#0" expanded="true" />
-            <element signature="e#42987#42988#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t18/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t18/MyThread2.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synLockIn_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t18/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/t19/R冫.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t19/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t19/MyThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t19/MyThread1.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t19/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t20/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t20/MyThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/t20/MyThread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/countPriority/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="330">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/countPriority/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/throwExceptionNoLock/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="418">
+          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/callMainMethodMainThread/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synNotExtends/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synNotExtends/ThreadB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/daemonThread/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synNotExtends/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synNotExtends/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synNotExtends/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/EXE/JDK1.8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="748" column="9" lean-forward="true" selection-start-line="748" selection-start-column="9" selection-end-line="748" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synchronizedOneThreadIn/ObjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="75" selection-start-line="11" selection-start-column="75" selection-end-line="11" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t5/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t5/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t5/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t5/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t5/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t6/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t6/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t6/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t6/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t6/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t7/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t7/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t7/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t7/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ObjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/doubleSynBlockOneTwo/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t8/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t8/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t8/MyThread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/t8/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString2/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString2/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString2/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/synBlockString2/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/daemonThread/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/countPriority/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/syn_Out_asyn/Run.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -929,11 +1115,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Android API 20 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MultiThread</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
