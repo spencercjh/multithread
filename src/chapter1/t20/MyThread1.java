@@ -14,6 +14,6 @@ public class MyThread1 extends Thread {
             random.nextInt();
         }
         long endTime = System.currentTimeMillis();
-        System.out.println("### thread 1 use time=" + String.valueOf(endTime - beginTime));
+        System.out.println("### thread ConditionTestMoreMethod use time=" + String.valueOf(endTime - beginTime));
     }
 }

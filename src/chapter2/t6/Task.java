@@ -11,7 +11,7 @@ public class Task {
         try {
             System.out.println("begin task");
             Thread.sleep(3000);
-            String privateGetData1 = "长时间处理任务后从远程返回的值 1 thread name=" + Thread.currentThread().getName();
+            String privateGetData1 = "长时间处理任务后从远程返回的值 ConditionTestMoreMethod thread name=" + Thread.currentThread().getName();
             String privateGetData2 = "长时间处理任务后从远程返回的值 2 thread name=" + Thread.currentThread().getName();
             synchronized (this) {
                 getData1 = privateGetData1;
