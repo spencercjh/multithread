@@ -3,26 +3,50 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/Test.java" line="21" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5439e8c4-a1fc-4a5b-bc93-b1a1bdd3a3cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/condition123/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2018_2.java" afterDir="false" />
+    <list default="true" id="5439e8c4-a1fc-4a5b-bc93-b1a1bdd3a3cd" name="Default" comment="完成第四章代码；">
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TImerCancelMethod/MyTaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TImerCancelMethod/MyTaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TImerCancelMethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TimerCancelError/MyTaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TimerCancelError/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/MyTaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/MyTaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/taskLater/MyTaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/taskLater/MyTaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/taskLater/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest1/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2_period/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2_period/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2_period/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2_periodLater/MyTaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest2_periodLater/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest3/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest3/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest4/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest4/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/timerTest5/Test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThread.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThread.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/pipeInputOutput/ReadData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/pipeInputOutput/ReadData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/pipeReaderWriter/ReadData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/pipeReaderWriter/ReadData.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +58,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/Run.java">
+      <file leaf-file-name="Test9.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="396">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,46 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter4/Fair_noFair_test/RunNotFair.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/test1/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/test1/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/test2/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/test2/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/test3/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/test3/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/hasQueuedThreadTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/hasQueuedThreadTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/hasWaitersTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/hasWaitersTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isFairTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isFairTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isHedByCurrentThreadTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isHedByCurrentThreadTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isHeldByCurrentThreadTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isLockedTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/isLockedTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest1/MyService.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest1/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest2/MyService.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest2/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/tryLockTest/MyService.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/tryLockTest/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/tryLock_param/MyService.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/tryLock_param/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/RUn.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_2/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_2/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_2/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUntilTest/MyThreadA.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUntilTest/MyThreadB.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUntilTest/Run1.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUntilTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/awaitUntilTest/Run2.java" />
-        <option value="$PROJECT_DIR$/test/test.java" />
-        <option value="$PROJECT_DIR$/test/test2018_2.java" />
         <option value="$PROJECT_DIR$/src/chapter4/condition123/F.java" />
         <option value="$PROJECT_DIR$/src/chapter4/condition123/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/ThreadA.java" />
@@ -123,10 +110,50 @@
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Service.java" />
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Service.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/Service.java" />
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/ThreadB.java" />
         <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin4/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin4/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest1/Test1.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest1/Test2.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest1/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2/Test1.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2/Test2.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/taskLater/MyTaskA.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/taskLater/MyTaskB.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/taskLater/Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2_period/Test1.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2_period/Test2.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2_periodLater/MyTaskA.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest2_periodLater/Test1.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/MyTaskA.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/MyTaskB.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TImerCancelMethod/MyTaskA.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TImerCancelMethod/MyTaskB.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TImerCancelMethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TimerCancelError/MyTaskA.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/TimerCancelError/Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest3/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest3/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest4/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test1.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test2.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskB.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test3.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test4.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test6.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test7.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test8.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskC.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test5.java" />
+        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test9.java" />
       </list>
     </option>
   </component>
@@ -185,28 +212,19 @@
               <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadWriteLockBegin1" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="timerTest5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadWriteLockBegin2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadWriteLockBegin3" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,18 +244,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter5.timerTest5" />
+      <recent name="chapter5.TImerCancelMethod" />
+      <recent name="chapter5.taskLater" />
+      <recent name="chapter5.timerTest2" />
       <recent name="chapter4.ReadWriteLockBegin1" />
-      <recent name="chapter4.awaitUntilTest" />
-      <recent name="chapter4.Fair_noFair_test" />
-      <recent name="chapter4.ConditionTest" />
-      <recent name="chapter4.MustUserMoreCondition_Error" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter5\timerTest4" />
+      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter5\timerTest2_period" />
       <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter4\ReadWriteLockBegin4" />
       <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter4\ReadWriteLockBegin3" />
       <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter4\ReadWriteLockBegin2" />
-      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter4\awaitUninterruptiblyTest_2" />
-      <recent name="D:\spencercjh\programe\IDEA-workspace\MultiThread\src\chapter4\lockInterruptiblyTest2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -252,62 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (4)">
-    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ReadWriteLockBegin1.Run" />
-      <module name="MultiThread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.ReadWriteLockBegin1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ReadWriteLockBegin2.Run" />
-      <module name="MultiThread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.ReadWriteLockBegin2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ReadWriteLockBegin3.Run" />
-      <module name="MultiThread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.ReadWriteLockBegin3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ReadWriteLockBegin4.Run" />
-      <module name="MultiThread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.ReadWriteLockBegin4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.condition123.Run" />
-      <module name="MultiThread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.condition123.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Test10">
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.daemonThread.Run" />
       <module name="MultiThread" />
@@ -315,6 +278,72 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter1.daemonThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.timerTest5.Test10" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.timerTest5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.timerTest5.Test5" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.timerTest5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.timerTest5.Test6" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.timerTest5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.timerTest5.Test7" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.timerTest5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.timerTest5.Test8" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.timerTest5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.timerTest5.Test9" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.timerTest5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,19 +390,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Run (1)" />
-      <item itemvalue="Application.Run (2)" />
-      <item itemvalue="Application.Run (3)" />
-      <item itemvalue="Application.Run (4)" />
+      <item itemvalue="Application.Test5" />
+      <item itemvalue="Application.Test6" />
+      <item itemvalue="Application.Test8" />
+      <item itemvalue="Application.Test9" />
+      <item itemvalue="Application.Test10" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run (3)" />
-        <item itemvalue="Application.Run (2)" />
-        <item itemvalue="Application.Run (1)" />
-        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +424,7 @@
       <workItem from="1530750829693" duration="19397000" />
       <workItem from="1531027846074" duration="6765000" />
       <workItem from="1531052976918" duration="439000" />
-      <workItem from="1531097875693" duration="1369000" />
+      <workItem from="1531097875693" duration="8235000" />
     </task>
     <task id="LOCAL-00001" summary="更改文件结构；">
       <created>1530534502544</created>
@@ -460,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530779196926</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="完成第四章代码；">
+      <created>1531099476315</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1531099476315</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85056000" />
+    <option name="totallyTimeSpent" value="91922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -551,7 +587,8 @@
     <MESSAGE value="更新第三章部分代码；" />
     <MESSAGE value="完成第三章代码；" />
     <MESSAGE value="更新第四章部分代码；" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新第四章部分代码；" />
+    <MESSAGE value="完成第四章代码；" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成第四章代码；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,334 +596,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter4/test1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/test1/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/test2/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/test2/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/test3/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/test3/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/hasQueuedThreadTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/hasQueuedThreadTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/hasWaitersTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/hasWaitersTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/isFairTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/isFairTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/isHeldByCurrentThreadTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/isHeldByCurrentThreadTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/isLockedTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/isLockedTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest1/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest2/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/lockInterruptiblyTest2/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/tryLockTest/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/tryLockTest/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/tryLock_param/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/tryLock_param/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_2/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_2/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_2/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUntilTest/MyThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUntilTest/MyThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUntilTest/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUntilTest/Run1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUntilTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/EXE/JDK1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="1500" column="7" lean-forward="true" selection-start-line="1500" selection-start-column="7" selection-end-line="1500" selection-end-column="7" />
-          <folding>
-            <element signature="e#58481#58482#0" expanded="true" />
-            <element signature="e#58518#58519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/condition123/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="31" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#157#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test2018_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/condition123/F.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -917,8 +626,428 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin3/Run.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin4/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin4/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin4/Service.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/ReadWriteLockBegin4/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest1/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#501#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest1/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="40" selection-start-line="12" selection-start-column="4" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest1/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/taskLater/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#737#778#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/taskLater/MyTaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/taskLater/MyTaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2_period/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2_period/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2_period/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#559#600#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test2018_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2_periodLater/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#532#573#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest2_periodLater/MyTaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#525#566#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/MyTaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TimerTaskCancelMethod/MyTaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TImerCancelMethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#519#560#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TImerCancelMethod/MyTaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TImerCancelMethod/MyTaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TimerCancelError/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#457#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/TimerCancelError/MyTaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/EXE/JDK1.8/src.zip!/java/util/TimerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest3/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding>
+            <element signature="e#195#236#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest4/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest3/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest4/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#341#382#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#357#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -939,7 +1068,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -962,7 +1091,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android API 20 Platform</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -979,7 +1108,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -987,7 +1115,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>Android API 20 Platform</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -998,6 +1126,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
