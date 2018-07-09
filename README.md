@@ -25,7 +25,7 @@ synchronized同样但更高效的目的。
 
 #### 第四章 Lock的使用：
 
-介绍了java.util.concurrent.locks包中ReentrantLock类和ReentrantReadWriteLock类的使用，并用他们去更高效地完成synchronized和volatile关键字的工作。
+介绍了java.util.concurrent.locks包中ReentrantLock类，Condition类和ReentrantReadWriteLock类的使用，并用他们去更高效地完成synchronized和volatile关键字的工作。
 
 #### 第五章 定时器Timer
 
