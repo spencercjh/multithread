@@ -9,7 +9,7 @@ import java.io.PipedInputStream;
 public class ReadData {
     public void readMetod(PipedInputStream inputStream) {
         try {
-            System.out.println("read:   ");
+            System.out.println("write:   ");
             byte[] bytes = new byte[20];
             int readLength = inputStream.read(bytes);
             while (readLength != -1) {
