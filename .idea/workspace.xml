@@ -8,43 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5439e8c4-a1fc-4a5b-bc93-b1a1bdd3a3cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_0/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_0/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_0/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_0/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_1/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_10/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_10/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_10/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2_1/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2_1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2_1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2_2/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2_2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_2_2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_3/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_3/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_5/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_5/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_5/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_7/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_7/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_7/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_7_1/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_7_1/SaveAndRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_8/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_8/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_8/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_9/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_9/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/singleton_9/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +24,8 @@
       <file leaf-file-name="MyObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter6/singleton_10/MyObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+            <state relative-caret-position="176">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding>
                 <element signature="e#1015#1016#0" expanded="true" />
                 <element signature="e#1082#1083#0" expanded="true" />
@@ -78,11 +43,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter6/singleton_10/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="704">
+                <caret line="32" selection-start-line="32" selection-end-line="32" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test10.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -120,8 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test1.java" />
-        <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test2.java" />
         <option value="$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskB.java" />
         <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test3.java" />
         <option value="$PROJECT_DIR$/src/chapter5/timerTest5/Test4.java" />
@@ -168,9 +152,11 @@
         <option value="$PROJECT_DIR$/src/chapter6/singleton_9/MyThread.java" />
         <option value="$PROJECT_DIR$/src/chapter6/singleton_9/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter6/singleton_9/MyObject.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/singleton_10/Run.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/singleton_10/MyObject.java" />
         <option value="$PROJECT_DIR$/src/chapter6/singleton_10/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/singleton_10/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/chapter6/singleton_10/Run.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/Service.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -208,6 +194,33 @@
               <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="taskLater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="TimerCancelError" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="timerTest5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
@@ -478,7 +491,7 @@
       <workItem from="1531052976918" duration="439000" />
       <workItem from="1531097875693" duration="9881000" />
       <workItem from="1531114526673" duration="57000" />
-      <workItem from="1531122740910" duration="3244000" />
+      <workItem from="1531122740910" duration="4569000" />
     </task>
     <task id="LOCAL-00001" summary="更改文件结构；">
       <created>1530534502544</created>
@@ -557,11 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531106381643</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="完成第六章代码；">
+      <created>1531126071567</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531126071567</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96869000" />
+    <option name="totallyTimeSpent" value="98194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -650,7 +670,8 @@
     <MESSAGE value="更新第四章部分代码；" />
     <MESSAGE value="完成第四章代码；" />
     <MESSAGE value="完成第五章代码；" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成第五章代码；" />
+    <MESSAGE value="完成第六章代码；" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成第六章代码；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -658,27 +679,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/MyTaskC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -707,13 +707,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -1003,12 +996,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/singleton_10/MyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+        <state relative-caret-position="176">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding>
             <element signature="e#1015#1016#0" expanded="true" />
             <element signature="e#1082#1083#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/awaitUninterruptiblyTest_1/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/taskLater/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1021,8 +1028,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/singleton_10/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5/timerTest5/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="704">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
