@@ -5,51 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5439e8c4-a1fc-4a5b-bc93-b1a1bdd3a3cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/autoAddGroup/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatError/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatError/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatOK1/DateTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatOK1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatOK1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatOK2/DateTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatOK2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/formatOK2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/getGroupParent/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupAddThread/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupAddThread/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupAddThread/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupAddThreadMoreLevel/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupInnerStop/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupInnerStop/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/groupRecurseTest/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/mainGroup/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest3/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest3/MyThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest3/MyThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest3/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest4/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest4/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/stageTest4/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadCreateException/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadCreateException/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadCreateException/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadCreateException/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadGroup_1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadGroup_1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThreadGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadGroup_2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadRunSyn/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/threadRunSyn/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/t18/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/t18/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_0/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_0/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_5/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_5/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_7/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_7/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_7/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_7/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_7_1/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_7_1/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_8/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_8/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/singleton_8/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/singleton_8/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,51 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_1/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_1/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThreadGroup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThreadGroup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="301">
+                <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -145,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter7/MyThread.java" />
         <option value="$PROJECT_DIR$/src/chapter7/stageTest/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter7/Run.java" />
         <option value="$PROJECT_DIR$/src/chapter7/stageTest1/Run.java" />
@@ -196,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThreadGroup.java" />
         <option value="$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThread.java" />
         <option value="$PROJECT_DIR$/src/chapter7/threadGroup_2/Run.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -254,13 +174,6 @@
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="threadGroup_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -474,7 +387,7 @@
       <workItem from="1531097875693" duration="9881000" />
       <workItem from="1531114526673" duration="57000" />
       <workItem from="1531122740910" duration="7360000" />
-      <workItem from="1531190527751" duration="7308000" />
+      <workItem from="1531190527751" duration="7565000" />
     </task>
     <task id="LOCAL-00001" summary="更改文件结构；">
       <created>1530534502544</created>
@@ -588,11 +501,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531128285881</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="完成第七章代码；">
+      <created>1531210338882</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1531210338882</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108293000" />
+    <option name="totallyTimeSpent" value="108550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -617,7 +537,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3729553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3729553" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
@@ -684,7 +604,8 @@
     <MESSAGE value="完成第六章代码；" />
     <MESSAGE value="更新README.md" />
     <MESSAGE value="更新第七章部分代码；" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新第七章部分代码；" />
+    <MESSAGE value="完成第七章代码；" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成第七章代码；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -692,13 +613,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter6/singleton_1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/singleton_0/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1045,28 +959,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_1/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_1/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -1077,10 +973,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_2/MyThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="264">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/threadGroup_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="301">
+            <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
