@@ -6,11 +6,11 @@ package chapter6.singleton_0;
  */
 public class Run {
     public static void main(String[] args) {
-        MyThread[] threads = new MyThread[3];
-        for (int i = 0; i < 3; i++) {
+        MyThread[] threads = new MyThread[5];
+        for (int i = 0; i < 5; i++) {
             threads[i] = new MyThread();
         }
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 5; i++) {
             threads[i].start();
         }
     }
